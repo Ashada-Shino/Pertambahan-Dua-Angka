@@ -1,11 +1,6 @@
 # Pertambahan-Dua-Angka
--
--
--
--
--
-Ahmad Wildan Faurizqi
+</br>
 
-2010010175
+### Tampilan Aplikasi
+![Layer 5](https://user-images.githubusercontent.com/90718856/202606774-a2b957ee-588e-4e7d-9412-2e67b4591a80.png)
 
-Komentar Saat commit lupa di ganti 😅
